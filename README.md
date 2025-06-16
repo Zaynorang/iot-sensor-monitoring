@@ -1,4 +1,4 @@
-# IoT Sensor Monitoring with ESP8266, MQTT, TimeScaleDB, and Grafana
+# IoT Sensor Monitoring dengan ESP8266, MQTT, TimeScaleDB, dan Grafana
 [![Repo Size](https://img.shields.io/github/repo-size/Zaynorang/iot-sensor-monitoring?cacheSeconds=10)](https://github.com/Zaynorang/iot-sensor-monitoring)
 [![Last Commit](https://img.shields.io/github/last-commit/Zaynorang/iot-sensor-monitoring)](https://github.com/Zaynorang/iot-sensor-monitoring/commits)
 
