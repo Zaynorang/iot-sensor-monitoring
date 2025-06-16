@@ -1,5 +1,5 @@
 # IoT Sensor Monitoring with ESP8266, MQTT, TimeScaleDB, and Grafana
-[![Repo Size](https://img.shields.io/github/repo-size/Zaynorang/iot-sensor-monitoring)](https://github.com/Zaynorang/iot-sensor-monitoring)
+[![Repo Size](https://img.shields.io/github/repo-size/Zaynorang/iot-sensor-monitoring?cacheSeconds=10)](https://github.com/Zaynorang/iot-sensor-monitoring)
 [![Last Commit](https://img.shields.io/github/last-commit/Zaynorang/iot-sensor-monitoring)](https://github.com/Zaynorang/iot-sensor-monitoring/commits)
 
 Proyek ini bertujuan untuk memonitor suhu, kelembaban, dan gerakan menggunakan ESP8266, sensor DHT11, dan sensor PIR. Data dikirimkan melalui MQTT ke broker HiveMQ, disimpan dalam database TimeScaleDB, dan divisualisasikan menggunakan Grafana. Semua komponen backend dijalankan dengan Docker Compose.
