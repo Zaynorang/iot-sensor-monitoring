@@ -14,7 +14,7 @@ IOT-SENSOR-MONITORING/
 ```
 ## 🛠️ Hardware
 
-- ESP8266 NodeMCU
+- ESP8266
 - Sensor DHT11 (suhu & kelembaban)
 - Sensor PIR (gerakan)
 - Kabel jumper
