@@ -95,4 +95,12 @@ ORDER BY timestamp ASC
 
 
 ## 📷 Dokumentasi Gambar
+- Rangkaian
+  
+  ![Rangkaian](./images/rangkaian.jpeg)
+
+- Tampilan Grafana Web
+  
+  ![Grafana](./images/tampilangrafana.jpeg)
+
 
