@@ -63,6 +63,34 @@ python3 mqtt_to_timescaledb.py
 Buka http://localhost:3000
 Login default: admin / admin
 Tambahkan datasource PostgreSQL → buat dashboard → pilih tabel dan visualisasikan data.
+#### Query untuk Temperatur
+```bash
+SELECT
+  $__time(timestamp),
+  temperature
+FROM sensor_data
+ORDER BY timestamp ASC
+
+```
+#### Query untuk Kelembaban
+```bash
+SELECT
+  $__time(timestamp),
+  humidity
+FROM sensor_data
+ORDER BY timestamp ASC
+
+```
+#### Query untuk Gerakan (Motion)
+```bash
+SELECT
+  $__time(timestamp),
+  motion::int
+FROM sensor_data
+ORDER BY timestamp ASC
+
+```
+
 
 ## 📷 Dokumentasi Gambar
 
