@@ -11,7 +11,7 @@ STRUKTUR PROYEK:
 - mqtt_to_timescaledb.py     : Python subscriber MQTT dan insert ke DB
 
 HARDWARE:
-- ESP8266 NodeMCU
+- ESP8266
 - Sensor DHT11 (suhu & kelembaban)
 - Sensor PIR (gerakan)
 - Kabel jumper
