@@ -63,6 +63,7 @@ Contoh Query untuk Grafana:
 - Gerakan (motion):
   SELECT $__time(timestamp), motion::int FROM sensor_data ORDER BY timestamp ASC
 
-DOKUMENTASI GAMBAR:
-- Rangkaian: ./images/rangkaian.jpeg
-- Tampilan Grafana Web: ./images/tampilangrafana.jpeg
+---
+
+Repositori proyek dapat diakses pada:
+https://github.com/Zaynorang/iot-sensor-monitoring
